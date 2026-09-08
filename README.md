@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Habib Diagnostic Service
 
-## Getting Started
+Official website for **Habib Diagnostic Service**, providing diagnostic, laboratory, medical, and healthcare solutions.
 
-First, run the development server:
+## About the Project
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This website is designed to present Habib Diagnostic Service in a professional and modern way.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+It includes information about the company, product categories, healthcare solutions, services, contact details, and customer support options.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Main Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Modern and responsive design
+- Product mega menu
+- Product category pages
+- Website search functionality
+- About Us page
+- Services page
+- Contact page
+- WhatsApp integration
+- Smooth animations
+- Mobile responsive navigation
+- SEO-friendly structure
 
-## Learn More
+## Product Categories
 
-To learn more about Next.js, take a look at the following resources:
+- Laboratory Diagnostics
+- Molecular Diagnostics
+- Microscopy & Imaging
+- Point of Care Testing
+- Clinical & Medical Equipment
+- Laboratory Consumables
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Technologies Used
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Next.js
+- TypeScript
+- React
+- CSS
+- Motion
+- Responsive Web Design
 
-## Deploy on Vercel
+## Development
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Developed by [SoftwayHub](https://softwayhub.com/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Website
+
+Habib Diagnostic Service
+
+## Status
+
+Project frontend completed and ready for final testing, optimization, and deployment.
