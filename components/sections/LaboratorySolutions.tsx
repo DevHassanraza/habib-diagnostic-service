@@ -30,7 +30,7 @@ const laboratorySolutions = [
       "Laboratory sample processing",
       "Modern diagnostic requirements",
     ],
-    image: "/images/products/hematology-analyzer.png",
+    image: "/images/products/image.png",
     imageAlt: "Modern hematology analyzer",
     reverse: true,
   },
